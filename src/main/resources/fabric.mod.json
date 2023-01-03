@@ -3,14 +3,14 @@
   "id": "betterladdersmod",
   "version": "${version}",
 
-  "name": "Better Ladders Mod",
+  "name": "Better Ladders",
   "description": "Ladders don't need a supporting block anymore",
   "authors": [
-    "Me!"
+    "meee"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": ""
   },
 
   "license": "MIT",
@@ -18,10 +18,8 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.meee.betterladdersmod.BetterLaddersMod"
     ],
     "client": [
-      "net.meee.betterladdersmod.BetterLaddersModClient"
     ]
   },
   "mixins": [

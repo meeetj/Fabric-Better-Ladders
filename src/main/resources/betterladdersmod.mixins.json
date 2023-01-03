@@ -4,9 +4,11 @@
   "package": "net.meee.betterladdersmod.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "LadderBlockModded"
   ],
   "client": [
-    "ExampleMixin"
+  ],
+  "server": [
   ],
   "injectors": {
     "defaultRequire": 1
