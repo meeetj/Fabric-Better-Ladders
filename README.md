@@ -3,12 +3,12 @@
 This mod has one single purpose:\
 It changes the vanilla ladder model to be 3D and placeable anywhere without any supporting blocks. No need to mess around with barrier blocks anymore.
 
-![Showcase](img/pic.png)
+![Showcase](/img/pic.png)
 
 If the ladder is placed against a supporting block, the ladder is placed against its surface like in vanilla.\
 If there is no supporting block, the ladder faces the direction of the player
 
-![Showcase](img/pic2.png)
+![Showcase](/img/pic2.png)
 
 Destroying supporting blocks does not destroy the attached ladder anymore!
 
