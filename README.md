@@ -1,7 +1,7 @@
 # Better Ladders
 
 This mod has one single purpose:\
-It changes the vanilla ladder model to be 3D and placeable anywhere without any supporting blocks. No need to mess around with barrier blocks anymore.
+It changes the vanilla ladder model to be placeable anywhere without any supporting blocks. No need to mess around with barrier blocks anymore.
 
 ![](https://github.com/meeetj/Fabric-Better-Ladders/blob/master/img/pic.PNG)
 
@@ -14,5 +14,5 @@ Destroying supporting blocks does not destroy the attached ladder anymore!
 
 # Additional Info
 
-- the 3D model is just an internal resource pack change, other resource packs that change the texture of the ladder will work with the 3D model
 - removing the mod completely will still keep the floating ladders in your world, only a block update by placing a block where the vanilla ladder expects a 'supporting block' will make the ladder pop off
+- for the 3D model ladder please use one of the many 3D ladder resource packs
